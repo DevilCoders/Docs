@@ -1,0 +1,1 @@
+See https://github.com/bivas/protobuf-java-format

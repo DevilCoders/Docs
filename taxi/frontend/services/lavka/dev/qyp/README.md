@@ -1,0 +1,1 @@
+Как поднять виртуалку - https://wiki.yandex-team.ru/lavka/dev/front/dev_computer_for_everyone/

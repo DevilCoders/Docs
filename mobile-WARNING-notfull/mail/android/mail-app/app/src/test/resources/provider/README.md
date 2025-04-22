@@ -1,0 +1,2 @@
+nano1 - sample db contains data for account "djdonkey" of NanoSqliteOpenHelper with version 1 (app version 3.16)
+nano6 - sample db contains data for account "djdonkey" of NanoSqliteOpenHelper with version 6 (app version 4.26)

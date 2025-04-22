@@ -1,0 +1,1 @@
+This is a Yandex.Cloud specific way of packaging the osquery-sender (use different base image).

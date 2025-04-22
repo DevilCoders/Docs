@@ -1,0 +1,11 @@
+### Создание SQLite снапшота базы
+- Правим необходимые файлы в папке ```drive/backend/tables/```. Это нужно, если структуры таблиц в базе поменялись.
+- Собираем ```drive/tests/dumper```
+- Копируем ```drive/tests/dumper/postgres.conf.example``` в ```drive/tests/dumper/postgres.conf```. Подставляем пароль внутри файла.
+- Копируем ```drive/tests/dumper/sqlite.conf.example``` в ```drive/tests/dumper/sqlite.conf```. При необходимости меняем путь к дампу, который мы создаем
+- Запускаем ``` ./dumper transfer --from ./postgres.conf --to ./sqlite.conf --match-fields```
+- Делаем ```ya upload ./extmaps-carsharing-testing.sqlite```. Получаем ссылку на ресурс. Выставляем ресурсу ttl равным значению `inf`. Можно сразу ```ya upload --ttl=inf ./extmaps-carsharing-testing.sqlite```.
+- Меняем в ```drive/tests/resources/extmaps-carsharing-testing/ya.make``` ID ресурса
+- Прогоняем тесты локально, собрав с новым ID ресурса
+- Создаем review, проверяем прохождение тестов в CI
+- Коммитим

@@ -1,0 +1,1 @@
+Пожалуйста, поддерживайте консистентность этих файлов с quality/query_pool/prs_ops/lib/wizard_params.json

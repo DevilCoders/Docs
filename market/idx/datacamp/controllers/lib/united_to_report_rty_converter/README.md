@@ -1,0 +1,2 @@
+### Описание
+Common proxy процессор отвечающий за конвертацию из [DatacampOffer](https://a.yandex-team.ru/arc/trunk/arcadia/market/idx/datacamp/proto/offer/DataCampOffer.proto?rev=7156694#L40) в [NSaas::TAction](https://a.yandex-team.ru/arc/trunk/arcadia/saas/api/action.h?rev=7154999#L11)

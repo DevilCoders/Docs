@@ -1,0 +1,2 @@
+
+Значение поля следует запрашивать с помощью аргумента `dbfields` одного из методов Черного ящика — [login](https://doc.yandex-team.ru/blackbox/reference/MethodLogin.dita), [sessionid](https://doc.yandex-team.ru/blackbox/reference/MethodSessionID.xml), [userinfo](https://doc.yandex-team.ru/blackbox/reference/MethodUserInfo.xml) или [oauth](https://doc.yandex-team.ru/blackbox/reference/method-oauth.xml).

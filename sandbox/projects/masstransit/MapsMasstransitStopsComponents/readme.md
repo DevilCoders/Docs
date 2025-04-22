@@ -1,0 +1,1 @@
+Эта задача периодически генерирует гипотезы о связности остановок ОТ графа. По сути она просто запускает вот эту программу: https://a.yandex-team.ru/arc_vcs/maps/masstransit/tools/connectivity_of_stops

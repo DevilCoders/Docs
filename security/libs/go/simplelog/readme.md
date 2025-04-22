@@ -1,0 +1,1 @@
+Very-very-very simple logging library, mostly used by cli tools

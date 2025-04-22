@@ -1,0 +1,3 @@
+```
+<UserName>yndx-partner</UserName>
+```

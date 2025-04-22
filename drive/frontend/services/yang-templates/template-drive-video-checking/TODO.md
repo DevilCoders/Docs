@@ -1,0 +1,5 @@
+* ~~Port from Typescript to JS before passing to other team~~ **DONE**
+* ~~Remove Trendbox integration~~ **DONE**
+* Get rid of antd, port to crowd-components
+* Consider switching to watermark-proxy (react-wp-viewer already allows it)
+* Add Thirium tests

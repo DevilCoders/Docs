@@ -1,0 +1,3 @@
+# WarehouseGroup
+
+## Общее описание

@@ -1,0 +1,2 @@
+Отправка точек в Solomon.
+Настраивается для каждого фильтра отдельно. <a href="https://wiki.yandex-team.ru/metrics/docs/graph/#otpravkatochekvsolomon" target="_blank" rel="noopener">Подробнее</a> про настройку и взаимодействие с Solomon.
