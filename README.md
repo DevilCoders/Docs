@@ -3,6 +3,29 @@
 #### MAP: Root folder | Subfolder | third folder | Name |
 #### EXAMPLE: paysys -> sre -> tools -> pipelines-cli
 
+
+### CONFIGURATION DOCS
+
+### C LIBRARY DOCS
+
+### C++ LIBRARY DOCS
+
+### PYTHON LIBRARY DOCS
+
+### KOTLIN LIBRARY DOCS
+
+### JAVA LIBRARY DOCS
+
+### GO LIBRARY DOCS
+
+### NODEJS PACKAGES DOCS
+
+### TOOLS LIBRARY DOCS
+
+### APPS LIBRARY DOCS
+
+### OTHER DOCS
+
 1. [README](config/README.md)
 2. [README](config/tracker_queues/README.md)
 3. [README](config/branches/README.md)
