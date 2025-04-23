@@ -1,7 +1,7 @@
-COMPLETE Yandex Documentation
-Documentation MAP
-Root folder | Subfolder | third folder | Name |
-EXAMPLE: paysys -> sre -> tools -> pipelines-cli
+## COMPLETE Yandex Documentation
+### Documentation MAP
+#### MAP: Root folder | Subfolder | third folder | Name |
+#### EXAMPLE: paysys -> sre -> tools -> pipelines-cli
 
 1. [README](config/README.md)
 2. [README](config/tracker_queues/README.md)
