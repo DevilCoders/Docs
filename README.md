@@ -11,14 +11,7 @@
 
 4. [README](paysys/sre/apps/paysysbot/README.md)
 5. [README](paysys/sre/apps/mongo_idm/README.md)
-6. [readme](paysys/sre/tools/timeline-events-cli/readme.md)
-7. [README](paysys/sre/tools/deploy/sidecars/README.md)
-8. [readme](paysys/sre/tools/pipelines-cli/readme.md)
-9. [README](paysys/sre/tools/ansible-docker/README.md)
-10. [README](paysys/sre/tools/ansible-docker/roles/trust-lpm/README.md)
-11. [README](paysys/sre/tools/monitorings/README.md)
-12. [docs](paysys/sre/tools/monitorings/configs/dwh/docs.md)
-13. [README](paysys/sre/tools/hardware/gen_ip/README.md)
+
 14. [README](paysys/sre/balance_notifier/README.md)
 15. [README](paysys/sre/packages/jaeger-agent/README.md)
 16. [README](paysys/sre/oracle/dbctl/README.md)
