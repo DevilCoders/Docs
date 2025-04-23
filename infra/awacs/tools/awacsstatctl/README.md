@@ -1,1 +1,0 @@
-Usage: `AWACS_TOKEN=AQAD-XXX ./awacsstatctl plot --days 50`

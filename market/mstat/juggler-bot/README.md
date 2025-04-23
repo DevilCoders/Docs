@@ -1,3 +1,0 @@
-# juggler-bot
-
-@jugglerDaddyBot

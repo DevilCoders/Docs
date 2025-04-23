@@ -1,3 +1,0 @@
-# advapi
-
-Autotests for AdMetrica

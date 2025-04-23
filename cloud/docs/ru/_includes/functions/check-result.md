@@ -1,1 +1,0 @@
-Проверьте, что триггер работает корректно. Для этого посмотрите [логи функции](../../functions/operations/function/function-logs.md) или [логи контейнера](../../serverless-containers/concepts/logs.md), в них отображается информация о вызовах.

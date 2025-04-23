@@ -1,2 +1,0 @@
-Релиз {{platform}} приложения «Беру!» [{{fixVersion}}]({{releaseFilterUrl}}), релизный тикет [{{releaseIssue}}](https://st.yandex-team.ru/{{releaseIssue}})
-Сборка *{{buildNumber}}* {{platform}} приложения доступна на [beta.m.soft.yandex.ru]({{yandexBetaUrl}})

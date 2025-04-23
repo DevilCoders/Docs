@@ -1,2 +1,0 @@
-Автоматически назначаемая метка при создании корзины.
-Данным тегом будут помечаться дампы оценок по этой корзине (<a href="https://wiki.yandex-team.ru/metrics/docs/qgaas/#tegispejjsyiixsvjazsdampamiocenok" target="_blank" rel="noopener">как это работает</a>).

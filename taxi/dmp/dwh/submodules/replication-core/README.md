@@ -1,2 +1,0 @@
-# replication-core
-Replication Core

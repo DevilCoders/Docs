@@ -1,7 +1,0 @@
-- get
-- create
-- update
-- delete
-- move
-- clone
-- use

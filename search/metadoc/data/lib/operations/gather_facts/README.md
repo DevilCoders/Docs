@@ -1,1 +1,0 @@
-Nirvana operation: https://nirvana.yandex-team.ru/alias-old/operation/metadoc_gather_facts

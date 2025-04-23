@@ -1,1 +1,0 @@
-Преобразовывает записи из формата [ExportMessage](https://a.yandex-team.ru/arc/trunk/arcadia/market/idx/datacamp/proto/api/ExportMessage.proto?rev=r7575033#L8) в [ExternalOffer](https://a.yandex-team.ru/arc/trunk/arcadia/market/idx/datacamp/proto/external/Offer.proto?rev=r8427067#L21).

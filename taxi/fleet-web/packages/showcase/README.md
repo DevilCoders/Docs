@@ -1,3 +1,0 @@
-# showcase
-
-Showcase section

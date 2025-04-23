@@ -1,1 +1,0 @@
-Выбрать 50 примеров с зевками и залипами и положить их по пути по умолчанию: ```python -m projects.signalq.markup.grouped.toloka_upload --num-chunks=1 --chunk-size=50 --date-from=2021-05-11 --date-to=2021-05-11 --version-pattern="(.+)6-5_yandex$" --sample-weights yawn=0.1 stuck=0.2```

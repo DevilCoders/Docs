@@ -1,1 +1,0 @@
-Wiki об использовании таблиц в проекте WMS Маркета: https://wiki.yandex-team.ru/users/yuri-mas/ui-tables-wms-market/

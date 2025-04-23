@@ -1,1 +1,0 @@
-Binary files in this directory **[MUST](https://tools.ietf.org/html/rfc2119)** be generated with [spack CLI tool](https://a.yandex-team.ru/arc/trunk/arcadia/solomon/tools/spack) to make sure that we keep backward compatibility of the format. 

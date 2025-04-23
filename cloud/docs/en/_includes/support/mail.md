@@ -1,1 +1,0 @@
-To contact technical support email at [{{ link-support-mail }}](mailto:{{ link-support-mail }}).

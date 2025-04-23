@@ -1,2 +1,0 @@
-* Публикация _robot-storage_ должна производиться через таск: [![Build Status](https://teamcity.yandex-team.ru/app/rest/builds/buildType:Market_Ir_RobotStorageRelease/statusIcon)](https://teamcity.yandex-team.ru/viewType.html?buildTypeId=Market_Ir_RobotStorageRelease)
-* Публикация _robot-hadoop_gate_ должна производиться через таск: [![Build Status](https://teamcity.yandex-team.ru/app/rest/builds/buildType:Market_Ir_RobotHadoopGateRelease/statusIcon)](https://teamcity.yandex-team.ru/viewType.html?buildTypeId=Market_Ir_RobotHadoopGateRelease)

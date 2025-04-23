@@ -1,3 +1,0 @@
-```
-<UserName>yndx-partner</UserName>
-```

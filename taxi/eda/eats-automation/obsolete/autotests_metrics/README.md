@@ -1,1 +1,0 @@
-## [Документация на Wiki](https://wiki.yandex-team.ru/eda/qa/avtomatizacija/autotestsmetrics/)

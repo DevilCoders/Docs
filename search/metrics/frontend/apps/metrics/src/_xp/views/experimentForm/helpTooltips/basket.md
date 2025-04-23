@@ -1,1 +1,0 @@
-Список запросов (корзинка), которые надо последовательно прокачать. <a href="https://wiki.yandex-team.ru/metrics/docs/xp-quickstart/#basket" target="_blank" rel="noopener">Подробнее</a> про выбор корзин.

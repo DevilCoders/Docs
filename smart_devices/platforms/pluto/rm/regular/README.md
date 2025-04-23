@@ -1,1 +1,0 @@
-This is a new directory for Pluto CI release machine. It's needed because of manual fixes in the old one. Please don't touch, use sandbox/projects/release_machine/components/configs/smart_devices/pluto_factory.py instead.

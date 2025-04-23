@@ -1,3 +1,0 @@
-# internalapid
-
-Autotests for internalapid

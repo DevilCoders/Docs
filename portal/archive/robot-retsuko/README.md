@@ -1,1 +1,0 @@
-npm run build && npm run tag-docker && npm run build-docker && npm run push-docker && npm run deploy

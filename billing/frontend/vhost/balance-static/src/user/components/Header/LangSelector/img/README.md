@@ -1,1 +1,0 @@
-Взято [здесь](https://github.yandex-team.ru/serp-design/design-system/tree/master/products/search/art/_src/keyboard)

@@ -1,3 +1,0 @@
-# affiliations
-
-Affiliations section

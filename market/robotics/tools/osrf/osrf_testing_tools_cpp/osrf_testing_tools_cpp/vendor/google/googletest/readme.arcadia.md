@@ -1,1 +1,0 @@
-tar.gz is kept in order to save original build system in arcadia tier 1 and make mvp as soon as possible.

@@ -1,1 +1,0 @@
-Email template: Hello {{world}}

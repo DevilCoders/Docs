@@ -1,1 +1,0 @@
-# burp-collaborator-fetcher

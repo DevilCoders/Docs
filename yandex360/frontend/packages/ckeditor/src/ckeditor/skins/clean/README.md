@@ -1,1 +1,0 @@
-# ckeditor-skin-clean

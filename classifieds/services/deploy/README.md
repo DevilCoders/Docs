@@ -1,2 +1,0 @@
-# deploy
-Deploy manifest

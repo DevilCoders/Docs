@@ -1,1 +1,0 @@
-# Caesar-HA redis manager

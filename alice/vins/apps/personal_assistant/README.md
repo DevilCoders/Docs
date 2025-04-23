@@ -1,1 +1,0 @@
-# vins-app-personal-assistant

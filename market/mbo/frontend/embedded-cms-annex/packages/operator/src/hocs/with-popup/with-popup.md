@@ -1,5 +1,0 @@
-### withPopup example
-
-```jsx
-
-```

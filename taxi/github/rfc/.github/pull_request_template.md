@@ -1,1 +1,0 @@
-- [ ] Мой пулл-реквест новой архитектуры сделан по [шаблону](https://github.yandex-team.ru/taxi/rfc/blob/master/_docs/template.md).

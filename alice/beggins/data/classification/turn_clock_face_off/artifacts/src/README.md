@@ -1,1 +1,0 @@
-- https://yql.yandex-team.ru/Operations/YZy85dJwbFKthWXnd5jB6rlCq4O8pyJTHRxdQMe5R-8=

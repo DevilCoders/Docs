@@ -1,1 +1,0 @@
-https://sandbox.yandex-team.ru/task/234772755/view

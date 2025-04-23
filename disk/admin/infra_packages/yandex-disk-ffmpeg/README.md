@@ -1,1 +1,0 @@
-If ffplay - add `Depends: libxcb1 libxcb-shm0 libxcb-xfixes0 libxcb-shape0 libasound2 libsdl2-2.0-0 libxv1 libva1 libfreetype6 libvpx3 libtheora0 libx264-148 libx265-79 libva-drm1 libva-x11-1 libvdpau1`

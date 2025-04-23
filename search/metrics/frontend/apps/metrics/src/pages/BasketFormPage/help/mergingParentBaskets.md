@@ -1,2 +1,0 @@
-Укажите одну или несколько корзин, запросы которых попадут в корзину-объединение.
-<a href="https://wiki.yandex-team.ru/metrics/docs/qgaas/#korzina-obedineniemerging-korzina" target="_blank" rel="noopener">Подробнее</a> про merging корзины.

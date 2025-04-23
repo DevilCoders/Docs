@@ -1,1 +1,0 @@
-# Наливка FreeBSD для Guppy

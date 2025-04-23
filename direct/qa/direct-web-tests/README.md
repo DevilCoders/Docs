@@ -1,1 +1,0 @@
-Direct web allure autotests project

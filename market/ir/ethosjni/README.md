@@ -1,1 +1,0 @@
-Пример таски для сборки: https://sandbox.yandex-team.ru/task/114797976/view

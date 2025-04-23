@@ -1,2 +1,0 @@
-# mdb-stats
-MDB Statistics

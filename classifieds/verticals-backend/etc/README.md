@@ -1,1 +1,0 @@
-Сервисы [команды разработки общих компонент](https://staff.yandex-team.ru/departments/yandex_personal_vertserv_comp_infra_bigdata/) (etc)

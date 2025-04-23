@@ -1,1 +1,0 @@
-Arcadia Podspec Repository

@@ -1,1 +1,0 @@
-[`alb.admin`](../../../../iam/concepts/access-control/roles.md#alb-admin): Lets you manage {{ alb-name }}: view, create, update, and delete resources, as well as manage access to them (this feature is currently unavailable).

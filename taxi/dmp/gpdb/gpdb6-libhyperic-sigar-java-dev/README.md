@@ -1,1 +1,0 @@
-# gpdb6-libhyperic-sigar-java-dev

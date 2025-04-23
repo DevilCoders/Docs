@@ -1,3 +1,0 @@
-# drivers
-
-Drivers section

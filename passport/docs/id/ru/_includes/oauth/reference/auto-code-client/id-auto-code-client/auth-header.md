@@ -1,1 +1,0 @@
-Идентификатор и пароль приложения также можно отправить в заголовке `Authorization`, закодировав строку `<client_id>:<client_secret>` методом base64. Если {{ service }} получает заголовок `Authorization`, параметры `client_id` и `client_secret` в теле запроса игнорируются. {#auth-header}

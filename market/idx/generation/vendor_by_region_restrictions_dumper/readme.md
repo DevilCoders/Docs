@@ -1,1 +1,0 @@
-fadeevsergey@dev-idx01vd:~/arcadia/market/idx/generation/vendor_by_region_restrictions_dumper$ ./vendor_by_region_restrictions_dumper --yt-proxy hahn.yt.yandex.net --yt-token-path ~/.yt/token --yt-input-path //home/market/users/aboltunov/vendor-region-restrictions --output-path ~/fb_testing

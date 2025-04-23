@@ -1,4 +1,0 @@
-scriptrunner-client
-===================
-
-Scriptrunner Client

@@ -1,1 +1,0 @@
-https://docs.yandex-team.ru/portal/development/functional_tests

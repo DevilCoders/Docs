@@ -1,3 +1,0 @@
-#### Does the service meet the requirements under Federal Law No. 152-FZ <q>On personal data</q>? {#fz-152}
-
-Yes, you can read the full security audit [conclusion](https://storage.yandexcloud.net/yc-compliance/conformance_en_pdp.pdf).

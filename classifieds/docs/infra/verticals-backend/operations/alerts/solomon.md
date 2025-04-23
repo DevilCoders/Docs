@@ -1,3 +1,0 @@
-# Solomon
-
-TODO

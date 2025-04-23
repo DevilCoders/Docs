@@ -1,1 +1,0 @@
-# yandex-partner-clickhouse-conf

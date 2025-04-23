@@ -1,1 +1,0 @@
-Вместо `<key_id>` и `<secret>` введите [секретный ключ и его идентификатор](../../iam/concepts/authorization/access-key.md).

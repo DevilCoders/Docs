@@ -1,2 +1,0 @@
-Support {{platform}} приложения «Беру!», саппортный тикет [{{supportIssue}}](https://st.yandex-team.ru/{{supportIssue}})
-Сборка *{{buildNumber}}* {{platform}} приложения доступна на [beta.m.soft.yandex.ru]({{yandexBetaUrl}})

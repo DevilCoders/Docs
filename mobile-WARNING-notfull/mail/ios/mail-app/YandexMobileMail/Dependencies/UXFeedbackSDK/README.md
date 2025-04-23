@@ -1,1 +1,0 @@
-# uxfeedback-sdk-ios

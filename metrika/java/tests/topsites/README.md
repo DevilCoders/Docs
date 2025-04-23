@@ -1,3 +1,0 @@
-# topsites
-
-Autotests for topsites

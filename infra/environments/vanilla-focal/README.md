@@ -1,2 +1,0 @@
-- symlinks vmlinux initrd.img moved / -> /boot
-- python v2 deprecated: python -> python2

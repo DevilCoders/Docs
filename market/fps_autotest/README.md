@@ -1,2 +1,0 @@
-# Автотесты FPS Frontend
-

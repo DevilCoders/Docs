@@ -1,1 +1,0 @@
-Дефолтные настройки графиков отвечают за то, какие линии будут включены по умолчанию при переходе на график. <a href="https://wiki.yandex-team.ru/metrics/docs/graph/#nastrojjkiperexoda" target="_blank" rel="noopener">Подробнее</a>

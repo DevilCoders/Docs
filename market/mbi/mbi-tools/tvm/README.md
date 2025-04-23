@@ -1,1 +1,0 @@
-`generateTicket.py` примает необязательные параметры `--clientId` и `--clientSecret`. Если они не заданы генерируется тикет для [тестового приложения](https://wiki.yandex-team.ru/passport/tvm/api/#ispolzovanietestovogotiketa)

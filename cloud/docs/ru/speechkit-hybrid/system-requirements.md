@@ -1,1 +1,0 @@
-{% include [system-requirements](../_includes/speechkit/system-requirements.md) %}

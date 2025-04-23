@@ -1,1 +1,0 @@
-https://wiki.yandex-team.ru/taxi/efficiency/atlas/

@@ -1,1 +1,0 @@
-CI: https://teamcity.yandex-team.ru/viewType.html?buildTypeId=Billing_Docker_ToolsDebuild

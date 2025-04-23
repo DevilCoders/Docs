@@ -1,1 +1,0 @@
-Working with {{ speechkit-name }} is performed via APIs. For more information about working with the {{ yandex-cloud }} API, see [API concepts](../../api-design-guide/).

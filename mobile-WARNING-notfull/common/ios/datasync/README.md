@@ -1,1 +1,0 @@
-# datasync-ios-sdk

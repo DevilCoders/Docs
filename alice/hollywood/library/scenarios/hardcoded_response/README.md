@@ -1,1 +1,0 @@
-TODO(@yagafarov) MEGAMIND-3203

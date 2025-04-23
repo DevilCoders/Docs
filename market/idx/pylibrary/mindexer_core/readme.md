@@ -1,1 +1,0 @@
-Здесь живут библиотеки, в которые вынесены файлы из idx/marketindexer/marketindexer/ при распиле idx/marketindexer/marketindexer/micommands.py

@@ -1,1 +1,0 @@
-_The state_ of a cluster indicates the health of its hosts, while the _status_ shows whether the cluster is started, stopped, or is in an intermediate stage.

@@ -1,1 +1,0 @@
-{{ yandex-cloud }} provides extended technical support Sunday-Thursday from 10:00 until 19:00. We aim to respond to your message within four hours.

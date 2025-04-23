@@ -1,1 +1,0 @@
-Смотри taxifrontend/projects/vezet

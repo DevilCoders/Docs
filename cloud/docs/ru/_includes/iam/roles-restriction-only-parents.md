@@ -1,1 +1,0 @@
-Сейчас эту роль можно назначить только на [каталог](https://cloud.yandex.ru/docs/resource-manager/concepts/resources-hierarchy#folder) или [облако](https://cloud.yandex.ru/docs/resource-manager/concepts/resources-hierarchy#cloud).

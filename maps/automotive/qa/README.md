@@ -1,1 +1,0 @@
-Yandex.Auto QA team repository

@@ -1,1 +1,0 @@
-There are no quotas or limits for {{ resmgr-full-name }}.

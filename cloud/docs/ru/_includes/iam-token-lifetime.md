@@ -1,1 +1,0 @@
-[Время жизни IAM-токена](../iam/concepts/authorization/iam-token.md#lifetime) — не больше {{ iam-token-lifetime }}, но рекомендуется запрашивать его чаще, например каждый час.

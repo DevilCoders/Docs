@@ -1,1 +1,0 @@
-Computes per banner statistics for filtering in `join_goods`.

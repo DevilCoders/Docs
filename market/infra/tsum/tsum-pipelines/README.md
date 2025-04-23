@@ -1,1 +1,0 @@
-Вся документация в вики: [https://wiki.yandex-team.ru/market/development/infra/pipe/](https://wiki.yandex-team.ru/market/development/infra/pipe/)

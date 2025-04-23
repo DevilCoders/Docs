@@ -1,1 +1,0 @@
-[The sandbox task](https://a.yandex-team.ru/arc/trunk/arcadia/sandbox/projects/metrika/core/antifraud-tables-uploader)
