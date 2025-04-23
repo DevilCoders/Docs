@@ -1,5 +1,5 @@
 ### "autobudget" folder
-1. [autobudget -> libs -> mr_io -> README](ads/ads/autobudget/libs/mr_io/README.md)
+1. [autobudget -> libs -> mr_io -> README](ads/autobudget/libs/mr_io/README.md)
 2. [autobudget -> metrics -> README](ads/autobudget/metrics/README.md)
 3. [autobudget -> metrics -> bidder_controls_monitoring -> README](ads/autobudget/metrics/bidder_controls_monitoring/README.md)
 4. [autobudget -> metrics -> bidder_controls_monitoring -> compute_metrics -> README](ads/autobudget/metrics/bidder_controls_monitoring/compute_metrics/README.md)

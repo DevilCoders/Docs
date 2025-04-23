@@ -1,3 +1,3 @@
 ### "backend" folder
-1. [backend -> java -> README](backend/java/README.md)
+1. [backend -> java -> README](wmconsole/backend/java/README.md)
 
