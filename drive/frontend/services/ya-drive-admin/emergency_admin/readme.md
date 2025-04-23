@@ -1,0 +1,2 @@
+# Emergency Admin
+[![oko health](https://badger.yandex-team.ru/oko/repo/carsharing/ya-drive-admin/health.svg?repoFilter=emergency_admin)](https://oko.yandex-team.ru/repo/carsharing/ya-drive-admin?repoFilter=emergency_admin)
