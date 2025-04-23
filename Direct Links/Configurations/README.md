@@ -1,3 +1,3 @@
 1. [README](config/README.md)
-2. [README](config/tracker_queues/README.md)
-3. [README](config/branches/README.md)
+2. [Tracker Queues](config/tracker_queues/README.md)
+3. [Branches](config/branches/README.md)
