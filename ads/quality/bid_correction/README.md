@@ -1,0 +1,5 @@
+- `generate_linear_model_json` -- получить конфиг линейной модели для `experiment-switcher/linear_model.json`.
+- `task_dumper` -- получить yml-таск с раскрытыми инклюдами.
+- `task_validator` -- проверить корректность yml-таска.
+- `workflow_constructor` -- обучить линейную модель или матрикснет, запустить eval-feature или feature selection.
+- `wrapper` -- запустить workflow_constructor из стабильной версии или сравнить две версии.

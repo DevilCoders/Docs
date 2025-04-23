@@ -1,0 +1,1 @@
+Сильно пропатченная версия оригинального gstatsd=0.6 с https://pypi.org/project/gstatsd/
