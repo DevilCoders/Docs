@@ -1,0 +1,106 @@
+### "docs" folder
+1. [docs -> base_java_image](docs/base_java_image.md)
+2. [docs -> fnsreg](docs/fnsreg.md)
+3. [docs -> index](docs/index.md)
+4. [docs -> java](docs/java.md)
+5. [docs -> java_async_pg](docs/java_async_pg.md)
+6. [docs -> java_micrometer](docs/java_micrometer.md)
+7. [docs -> java_micronaut_logbroker](docs/java_micronaut_logbroker.md)
+8. [docs -> java_micronaut_logbroker_manager](docs/java_micronaut_logbroker_manager.md)
+9. [docs -> java_micronaut_ydeploy](docs/java_micronaut_ydeploy.md)
+10. [docs -> java_service_template](docs/java_service_template.md)
+11. [docs -> java_testing](docs/java_testing.md)
+12. [docs -> java_testing_micronaut_cucumber](docs/java_testing_micronaut_cucumber.md)
+13. [docs -> java_testing_pglocal](docs/java_testing_pglocal.md)
+14. [docs -> java_testing_tvmlocal](docs/java_testing_tvmlocal.md)
+15. [docs -> java_tvm](docs/java_tvm.md)
+16. [docs -> java_utils](docs/java_utils.md)
+
+### "fes" folder
+17. [fes -> README](fes/README.md)
+18. [fes -> collector -> README](fes/collector/README.md)
+19. [fes -> fes -> README](fes/fes/README.md)
+20. [fes -> fes -> ydb -> README](fes/fes/ydb/README.md)
+21. [fes -> inbox_worker -> ydb -> README](fes/inbox_worker/ydb/README.md)
+
+### "findep" folder
+22. [findep -> ICO -> README](findep/ICO/README.md)
+23. [findep -> findepstbot -> README](findep/findepstbot/README.md)
+
+### "fnsreg" folder
+24. [fnsreg -> service -> README](fnsreg/service/README.md)
+
+### "java" folder
+25. [java -> base_image -> README](java/base_image/README.md)
+26. [java -> micrometer -> README](java/micrometer/README.md)
+27. [java -> micronaut-logbroker -> logbroker -> README](java/micronaut-logbroker/logbroker/README.md)
+28. [java -> micronaut-logbroker -> logbroker-manager -> README](java/micronaut-logbroker/logbroker-manager/README.md)
+29. [java -> micronaut-ydeploy -> README](java/micronaut-ydeploy/README.md)
+30. [java -> service -> README](java/service/README.md)
+31. [java -> testing -> micronaut_cucumber -> README](java/testing/micronaut_cucumber/README.md)
+32. [java -> testing -> pglocal -> README](java/testing/pglocal/README.md)
+33. [java -> testing -> tvmlocal -> README](java/testing/tvmlocal/README.md)
+34. [java -> tvm -> README](java/tvm/README.md)
+35. [java -> utils -> README](java/utils/README.md)
+36. [java -> yasmgen -> README](java/yasmgen/README.md)
+
+### "nirvana" folder
+37. [nirvana -> delete_workflow -> README](nirvana/delete_workflow/README.md)
+38. [nirvana -> filter_cash_register_csv_file -> README](nirvana/filter_cash_register_csv_file/README.md)
+39. [nirvana -> generate_monthclose_alert -> README](nirvana/generate_monthclose_alert/README.md)
+40. [nirvana -> get_mnclose_task_statuses -> README](nirvana/get_mnclose_task_statuses/README.md)
+41. [nirvana -> get_nirvana_task_statuses -> bin -> README](nirvana/get_nirvana_task_statuses/bin/README.md)
+42. [nirvana -> send_juggler_raw_events -> README](nirvana/send_juggler_raw_events/README.md)
+43. [nirvana -> start_workflow_instance -> README](nirvana/start_workflow_instance/README.md)
+44. [nirvana -> update_workflow_global_parameters -> README](nirvana/update_workflow_global_parameters/README.md)
+
+### "pyenv_debian" folder
+45. [pyenv_debian -> README](pyenv_debian/README.md)
+
+### "scrooge" folder
+46. [scrooge -> README](scrooge/README.md)
+
+### "spirit" folder
+47. [spirit -> add_firm_title_to_solomon -> README](spirit/add_firm_title_to_solomon/README.md)
+48. [spirit -> apply_solomon_alerts -> README](spirit/apply_solomon_alerts/README.md)
+49. [spirit -> check-renderer -> README](spirit/check-renderer/README.md)
+50. [spirit -> check-renderer -> dev -> ssl_cert -> README](spirit/check-renderer/dev/ssl_cert/README.md)
+51. [spirit -> corrections -> README](spirit/corrections/README.md)
+52. [spirit -> corrections -> correction_of_kkt_made_wrong_receipts_ffd12](spirit/corrections/correction_of_kkt_made_wrong_receipts_ffd12.md)
+53. [spirit -> darkspirit -> README](spirit/darkspirit/README.md)
+54. [spirit -> darkspirit -> billing_tnsnames -> README](spirit/darkspirit/billing_tnsnames/README.md)
+55. [spirit -> darkspirit -> docker -> README](spirit/darkspirit/docker/README.md)
+56. [spirit -> darkspirit -> docker -> db -> README](spirit/darkspirit/docker/db/README.md)
+57. [spirit -> darkspirit -> docker -> tvmtool -> README](spirit/darkspirit/docker/tvmtool/README.md)
+58. [spirit -> darkspirit -> secrets -> README](spirit/darkspirit/secrets/README.md)
+59. [spirit -> darkspirit -> tests -> README](spirit/darkspirit/tests/README.md)
+60. [spirit -> darkspirit -> tools -> README](spirit/darkspirit/tools/README.md)
+61. [spirit -> darkspirit -> tools -> correction_checks -> README](spirit/darkspirit/tools/correction_checks/README.md)
+62. [spirit -> dbstats -> README](spirit/dbstats/README.md)
+63. [spirit -> dbstats -> configs -> README](spirit/dbstats/configs/README.md)
+64. [spirit -> duty -> drills -> Readme](spirit/duty/drills/Readme.md)
+65. [spirit -> loadtest -> DESCRIPTION](spirit/loadtest/DESCRIPTION.md)
+66. [spirit -> loadtest -> README](spirit/loadtest/README.md)
+67. [spirit -> loadtest -> loadmock -> README](spirit/loadtest/loadmock/README.md)
+68. [spirit -> loadtest -> tank -> README](spirit/loadtest/tank/README.md)
+69. [spirit -> match_receipts -> README](spirit/match_receipts/README.md)
+70. [spirit -> system-tests -> README](spirit/system-tests/README.md)
+71. [spirit -> teamcity-ci-fork -> README](spirit/teamcity-ci-fork/README.md)
+72. [spirit -> whitespirit -> README](spirit/whitespirit/README.md)
+73. [spirit -> whitespirit -> dev_utils -> qemu -> readme](spirit/whitespirit/dev_utils/qemu/readme.md)
+74. [spirit -> whitespirit -> docs -> conditional](spirit/whitespirit/docs/conditional.md)
+75. [spirit -> whitespirit -> hudsucker -> docs -> build](spirit/whitespirit/hudsucker/docs/build.md)
+76. [spirit -> whitespirit -> it_tests -> README](spirit/whitespirit/it_tests/README.md)
+77. [spirit -> whitespirit -> it_tests -> dockered_kkt -> README](spirit/whitespirit/it_tests/dockered_kkt/README.md)
+78. [spirit -> whitespirit -> it_tests -> dockered_ws -> README](spirit/whitespirit/it_tests/dockered_ws/README.md)
+79. [spirit -> whitespirit -> patches -> starrus -> README](spirit/whitespirit/patches/starrus/README.md)
+80. [spirit -> whitespirit -> qemu_fr -> README](spirit/whitespirit/qemu_fr/README.md)
+81. [spirit -> whitespirit -> qemu_fr -> docs -> build](spirit/whitespirit/qemu_fr/docs/build.md)
+
+### "tools" folder
+82. [tools -> draw_mnclose_graph -> README](tools/draw_mnclose_graph/README.md)
+83. [tools -> fcm_mnclose_gantt_and_visualisation -> README](tools/fcm_mnclose_gantt_and_visualisation/README.md)
+84. [tools -> generate_mnclose_fake_tasks_script -> README](tools/generate_mnclose_fake_tasks_script/README.md)
+85. [tools -> generate_mnclose_percentils -> README](tools/generate_mnclose_percentils/README.md)
+86. [tools -> generate_nirvana_workflow_from_mnclose -> README](tools/generate_nirvana_workflow_from_mnclose/README.md)
+
