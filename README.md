@@ -7,9 +7,7 @@
 #### EXAMPLE: paysys -> sre -> tools -> pipelines-cli
 ---------------------------------------------------------
 
-1. [README](config/README.md)
-2. [README](config/tracker_queues/README.md)
-3. [README](config/branches/README.md)
+
 
 4. [README](paysys/sre/apps/paysysbot/README.md)
 5. [README](paysys/sre/apps/mongo_idm/README.md)
