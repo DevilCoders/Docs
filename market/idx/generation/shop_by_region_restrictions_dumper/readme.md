@@ -1,0 +1,1 @@
+fadeevsergey@dev-idx01vd:~/arcadia/market/idx/generation/shop_by_region_restrictions_dumper$ ./shop_by_region_restrictions_dumper --yt-proxy hahn.yt.yandex.net --yt-token-path ~/.yt/token --yt-input-path //home/market/development/indexer/fadeevsergey/region_blacklist --output-path ~/fb_testing

@@ -1,0 +1,2 @@
+Укажите одну или несколько корзин, запросы которых надо пересечь.
+<a href="https://wiki.yandex-team.ru/metrics/docs/qgaas/#korzina-peresechenieintersecting-korzina" target="_blank" rel="noopener">Подробнее</a> про intersecting корзины.

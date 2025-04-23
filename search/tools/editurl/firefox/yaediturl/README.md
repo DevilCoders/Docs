@@ -1,0 +1,1 @@
+To build *.xpi file use Add-on SDK https://developer.mozilla.org/en-US/Add-ons/SDK

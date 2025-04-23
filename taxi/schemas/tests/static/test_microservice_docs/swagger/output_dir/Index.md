@@ -1,0 +1,19 @@
+#Список сервисов
+##codegen-service
+* api
+    * [agreements](./../codegen-service/api/agreements)
+        * [/api/v1/agreements/terms](./../codegen-service/api/agreements#apiv1agreementsterms)
+    * [apikeys](./../codegen-service/api/apikeys)
+        * [/api/v1/apikeys/key](./../codegen-service/api/apikeys#apiv1apikeyskey)
+    * [composite_types](./../codegen-service/api/composite_types)
+        * [/api/v1/all-of-nested-one-of](./../codegen-service/api/composite_types#apiv1all-of-nested-one-of)
+        * [/api/v1/all-of-with-definition](./../codegen-service/api/composite_types#apiv1all-of-with-definition)
+        * [/openapi/all-of-basic](./../codegen-service/api/composite_types#openapiall-of-basic)
+    * [report_payouts](./../codegen-service/api/report_payouts)
+        * [/categories](./../codegen-service/api/report_payouts#categories)
+        * [/details](./../codegen-service/api/report_payouts#details)
+        * [/list](./../codegen-service/api/report_payouts#list)
+    * [sync_park](./../codegen-service/api/sync_park)
+        * [/api/v1/sync/park/uberdriver](./../codegen-service/api/sync_park#apiv1syncparkuberdriver)
+    * [work_rules](./../codegen-service/api/work_rules)
+        * [/api/v1/work-rules](./../codegen-service/api/work_rules#apiv1work-rules)

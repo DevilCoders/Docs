@@ -1,0 +1,1 @@
+Для генерации и добавления сертификата в число доверенных см. [здесь](https://deliciousbrains.com/https-locally-without-browser-privacy-errors/)

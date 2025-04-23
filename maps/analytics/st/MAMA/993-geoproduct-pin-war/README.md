@@ -1,0 +1,6 @@
+- Пример парсинга событий состояния показа пинов в мобильных картах.
+- Сделано в рамках [задачи](https://st.yandex-team.ru/MAMA-993)
+- [Тикет](https://st.yandex-team.ru/MAPSMOBCORE-10605) с реализация логгирования в мапките
+- Результа парсинга сохраняется на YT
+- Джоиниться с рубричными поисками из геокуба – https://yql.yandex-team.ru/Operations/X5KkeS--PJ7RJ_NZ5h3rCodDKeaROiuF5XO9OErMY5s=
+- И анализируется CHYT – https://yql.yandex-team.ru/Operations/X5K6yJ3udoH5wogHw3ZG8JqKP5P3YtSlsQyQXtnujHQ=

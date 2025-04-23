@@ -1,0 +1,2 @@
+# Фильтрация сигналов общественного транспорта
+Пробочный анализатор собирает все сигналы, которые ему приходят за сутки, в одну общую таблицу `//logs/analyzer-dispatcher-signals-log/1d`. Из-за её размеров работать с ней сложно, а сигналы ОТ занимают там < 1% строк. Поэтому мы отфильтровываем сигналы ОТ [ежедневным процессом](https://wiki.yandex-team.ru/maps/dev/core/masstransit/sandboxschedulers/#mapsmasstransitfiltersignals) и складываем в `//home/yatransport-prod/production/signals`.

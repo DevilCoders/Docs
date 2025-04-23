@@ -1,0 +1,1 @@
+Документация — [https://vault-api.passport.yandex.net/docs/](https://vault-api.passport.yandex.net/docs/).

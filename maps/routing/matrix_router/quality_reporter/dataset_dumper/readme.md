@@ -1,0 +1,1 @@
+Бинарь периодически запускатся из SB-таски: https://sandbox.yandex-team.ru/scheduler/23416/view

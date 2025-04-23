@@ -1,0 +1,21 @@
+В wiki содержатся сведения об архитектуре и основных практиках применяемых в Админке
+
+1. [Бандлинг](/arcadia/taxi/tariff-editor/docs/1.-bandles.md)
+2. [Организация redux экшенов](/arcadia/taxi/tariff-editor/docs/2.-redux-actions.md)
+3. [Организация API](/arcadia/taxi/tariff-editor/docs/3.-api.md)
+4. [Организация типов](/arcadia/taxi/tariff-editor/docs/4.-types.md)
+5. [Саги](/arcadia/taxi/tariff-editor/docs/5.-sagas-general.md)
+    * [Описание процессов и "Демоны"](/arcadia/taxi/tariff-editor/docs/5.1-sagas-daemons.md)
+    * [Трекинг процессов](/arcadia/taxi/tariff-editor/docs/5.2-sagas-subscribtions.md)
+    * [Организация CRUD операций](/arcadia/taxi/tariff-editor/docs/5.3-sagas-crud.md)
+    * [Сервисы](/arcadia/taxi/tariff-editor/docs/5.4-sagas-services.md)
+    * [Декораторы](/arcadia/taxi/tariff-editor/docs/5.5-sagas-decorators.md)
+6. [Локализация](/arcadia/taxi/tariff-editor/docs/6.-localization.md)
+7. [Монорепа](/arcadia/taxi/tariff-editor/docs/7.-monorepo.md)
+8. Сборки
+    * [Сборка unstable](/arcadia/taxi/tariff-editor/docs/8.1-build-unstable.md)
+    * [Создание release candidate](/arcadia/taxi/tariff-editor/docs/8.2-build-release-candidate.md)
+    * [Создание release версии](/arcadia/taxi/tariff-editor/docs/8.3-build-release.md)
+    * [Создание хотфикса для release версии](/arcadia/taxi/tariff-editor/docs/8.4-build-hotfix.md)
+    * [Создание релиза отдельного пакета](/arcadia/taxi/tariff-editor/docs/8.5-build-packages.md)
+9. [FAQ](/arcadia/taxi/tariff-editor/docs/faq.md)

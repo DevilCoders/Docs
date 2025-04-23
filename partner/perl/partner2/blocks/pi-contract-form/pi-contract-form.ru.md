@@ -1,0 +1,1 @@
+Используется по адресу `/settings/contract?type=distribution`. Партнер здесь создает либо выбирает существующего получателя платежа. На вход шаблона принимает два массива: `countries` и `persons`. Первый отдает в блок `pi-country-selector`, второй в `pi-receiver-list`.

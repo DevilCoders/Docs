@@ -1,0 +1,1 @@
+Инструкция по запуску, написанию тестов находится [тут](https://wiki.yandex-team.ru/lavka/dev/front/#e2etesty)

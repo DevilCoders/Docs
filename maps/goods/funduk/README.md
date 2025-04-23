@@ -1,0 +1,1 @@
+cat funduk.jar | yt write-file --destination //home/sprav/goods_and_prices/funduk.jar --executable

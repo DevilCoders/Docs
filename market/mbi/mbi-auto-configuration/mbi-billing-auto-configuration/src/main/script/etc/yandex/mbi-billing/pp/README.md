@@ -1,0 +1,1 @@
+Вся документация и руководство по заведению находятся [на wiki](https://wiki.yandex-team.ru/market/money/pp/aliases/Dobavlenie-novogo-PP/)

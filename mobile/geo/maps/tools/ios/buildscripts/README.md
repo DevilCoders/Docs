@@ -1,0 +1,1 @@
+[WIKI](https://wiki.yandex-team.ru/maps/mobile/dev/ios/fastlane-parameters/)

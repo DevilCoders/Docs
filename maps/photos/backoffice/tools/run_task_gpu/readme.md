@@ -1,0 +1,3 @@
+# Сборка
+
+`ya make -r -DTENSORFLOW_WITH_CUDA=1 -DCUDA_VERSION=10.1 -DNO_DEBUGINFO`

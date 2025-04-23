@@ -1,0 +1,1 @@
+Публикация _ir-pattern-extractor_ должна производиться через таск: [![Build Status](https://teamcity.yandex-team.ru/app/rest/builds/buildType:Market_Ir_IrPatternExtractorRelease/statusIcon)](https://teamcity.yandex-team.ru/viewType.html?buildTypeId=Market_Ir_IrPatternExtractorRelease)

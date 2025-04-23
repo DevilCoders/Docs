@@ -1,0 +1,1 @@
+🙏 Пользователем {{pipelineTriggeredByUserId}} (https://staff.yandex-team.ru/{{pipelineTriggeredByUserId}}) запущен релизный пайплайн ({{pipelineURI}})

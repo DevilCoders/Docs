@@ -1,0 +1,1 @@
+🏁 Релиз {{releaseName}} ({{releaseFilterUrl}}) завершён, релизный тикет {{releaseTicketKey}} ({{releaseIssueUrl}})
